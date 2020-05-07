@@ -80,6 +80,7 @@ public class Client {
 	
 	public static void main(String[] args) {
 		Phone p  = new PhoneBuilder().setOs("Andriod").setRam(2).setBattery(3000).getPhone();
+		// Here there is method chaining used.
 		System.out.println(p);
 	}
 }
