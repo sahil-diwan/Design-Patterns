@@ -12,5 +12,6 @@ Because the below problems are faced
   
   What problems builder design pattern solves ?
   Objects that need other objects or "parts" to construct them.
- 
-  ![img](/images/1.jpg)
+
+
+<img src="images/test.png">
