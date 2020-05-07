@@ -11,6 +11,11 @@ Because the below problems are faced
   2. It will help us avoid writing such constructor.
   
   What problems builder design pattern solves ?
+  
   Objects that need other objects or "parts" to construct them.
   
   <img src="images/test.PNG">
+  <img src="images/1.PNG">
+  
+  First Create an address object , and multiple role objects and a collection to hold these role and then we can call our constructor.
+  There are certain steps need to be followed to create user object.
