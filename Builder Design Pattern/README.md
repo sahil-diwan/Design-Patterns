@@ -19,3 +19,8 @@ Because the below problems are faced
   
   First Create an address object , and multiple role objects and a collection to hold these role and then we can call our constructor.
   There are certain steps need to be followed to create user object.
+
+
+# What is builder actually ?
+  We have a complex process to construct an object involving multiple steps , then builder pattern can help us.
+  In builder pattern we remove the logic related to object construction from "client" code and abstract it in separate class.
